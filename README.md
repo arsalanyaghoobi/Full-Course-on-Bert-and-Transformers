@@ -1,4 +1,5 @@
 #Transformers in Details: a binary classification
+#The purpose of this repo is nothing but to help beginners with the concepts of transformers. Thus, no trick or hack should be expected.
 References:
 http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-transformer/
