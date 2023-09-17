@@ -1,4 +1,4 @@
-#Bert in Details: a binary classification
+#Transformers in Details: a binary classification
 References:
 http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-transformer/
