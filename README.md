@@ -1,5 +1,5 @@
 #Bert in Details: a binary classification
-References to the pamphlet I uploaded are as below:
+References:
 http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-transformer/
 http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
