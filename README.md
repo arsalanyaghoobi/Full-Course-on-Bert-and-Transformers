@@ -1,4 +1,4 @@
-# Full-Course-on-Bert-and-Transformers(BertForSequenceClassification): a binary category
+#Bert in Details: a binary classification
 References to the pamphlet I uploaded are as below:
 http://jalammar.github.io/illustrated-bert/
 http://jalammar.github.io/illustrated-transformer/
